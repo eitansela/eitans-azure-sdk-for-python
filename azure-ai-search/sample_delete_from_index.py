@@ -9,8 +9,9 @@
 """
 FILE: sample_delete_from_index.py
 DESCRIPTION:
-    This sample demonstrates how search results from an Azure Search index can
-    be filtered and ordered.
+    This sample demonstrates how to select and show unique documents on Azure AI Search vector embeddings index. 
+    We provided a function to demonstrate how to delete documents from the index one by one.
+    ***TEST IT ON A DEV ENVIRONMENT BEFORE YOU RUN IT ON PRODUCTION!!!***
 USAGE:
     python sample_delete_from_index.py
 
