@@ -16,7 +16,7 @@ USAGE:
     python sample_delete_from_index.py
 
     Set the environment variables with your own values before running the sample:
-    1) AZURE_SEARCH_SERVICE_ENDPOINT - the endpoint of your Azure Cognitive Search service
+    1) AZURE_SEARCH_SERVICE_ENDPOINT - the endpoint of your Azure AI Search service
     2) AZURE_SEARCH_INDEX_NAME - the name of your search index (e.g. "hotels-sample-index")
     3) AZURE_SEARCH_API_KEY - your search API key
 """
