@@ -12,6 +12,13 @@ DESCRIPTION:
     This sample demonstrates how to select and show unique documents on Azure AI Search vector embeddings index. 
     We provided a function to demonstrate how to delete documents from the index one by one.
     ***TEST IT ON A DEV ENVIRONMENT BEFORE YOU RUN IT ON PRODUCTION!!!***
+
+PREREQUISITES:
+
+Install the Azure AI Search client library for Python with pip:
+
+    pip install azure-search-documents
+
 USAGE:
     python sample_delete_from_index.py
 
